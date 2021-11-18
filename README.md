@@ -1,2 +1,3 @@
 # personal-riotapi
-Messing about with Riot API
+
+## Pulling my own league data and storing it

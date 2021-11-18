@@ -1,0 +1,24 @@
+{
+  "name": "personal-riotapi",
+  "version": "1.0.0",
+  "description": "## Pulling my own league data and storing it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devianweb/personal-riotapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devianweb/personal-riotapi/issues"
+  },
+  "homepage": "https://github.com/devianweb/personal-riotapi#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^3.1.0"
+  }
+}
